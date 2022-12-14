@@ -1,0 +1,14 @@
+E:\bridgelab\ProductReviewUsingLINQ\bin\Debug\netcoreapp3.1\ProductReviewUsingLINQ.exe
+E:\bridgelab\ProductReviewUsingLINQ\bin\Debug\netcoreapp3.1\ProductReviewUsingLINQ.deps.json
+E:\bridgelab\ProductReviewUsingLINQ\bin\Debug\netcoreapp3.1\ProductReviewUsingLINQ.runtimeconfig.json
+E:\bridgelab\ProductReviewUsingLINQ\bin\Debug\netcoreapp3.1\ProductReviewUsingLINQ.runtimeconfig.dev.json
+E:\bridgelab\ProductReviewUsingLINQ\bin\Debug\netcoreapp3.1\ProductReviewUsingLINQ.dll
+E:\bridgelab\ProductReviewUsingLINQ\bin\Debug\netcoreapp3.1\ProductReviewUsingLINQ.pdb
+E:\bridgelab\ProductReviewUsingLINQ\obj\Debug\netcoreapp3.1\ProductReviewUsingLINQ.csproj.AssemblyReference.cache
+E:\bridgelab\ProductReviewUsingLINQ\obj\Debug\netcoreapp3.1\ProductReviewUsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\ProductReviewUsingLINQ\obj\Debug\netcoreapp3.1\ProductReviewUsingLINQ.AssemblyInfoInputs.cache
+E:\bridgelab\ProductReviewUsingLINQ\obj\Debug\netcoreapp3.1\ProductReviewUsingLINQ.AssemblyInfo.cs
+E:\bridgelab\ProductReviewUsingLINQ\obj\Debug\netcoreapp3.1\ProductReviewUsingLINQ.csproj.CoreCompileInputs.cache
+E:\bridgelab\ProductReviewUsingLINQ\obj\Debug\netcoreapp3.1\ProductReviewUsingLINQ.dll
+E:\bridgelab\ProductReviewUsingLINQ\obj\Debug\netcoreapp3.1\ProductReviewUsingLINQ.pdb
+E:\bridgelab\ProductReviewUsingLINQ\obj\Debug\netcoreapp3.1\ProductReviewUsingLINQ.genruntimeconfig.cache
